@@ -18,7 +18,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ## Download My C
 
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/18209414/CV.Nicolas.Bernard.01.1.pdf)
-[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+[Click here to download my CV](https://github.com/user-attachments/files/18209414/CV.Nicolas.Bernard.01.1.pdf)
 
 [CV Coline Ritz.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf)
 
